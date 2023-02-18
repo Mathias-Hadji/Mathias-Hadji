@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Hello! I'm Mathias.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> Hello! I'm Mathias.
 
 *<img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Front End Web developer*
 
