@@ -1,57 +1,24 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> Hello! I'm Mathias.
+# Hello 🌎 I'm Mathias Hadji
 
-*<img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Front End Web developer*
+Je suis **débutant en développement web et mobile** et j’apprends à mon rythme, en explorant les bases, en bidouillant des projets.
 
-## Skills <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E2NzFjMDA5NWE2MWRkYmIyZGVhMDNhMGFjN2JlYjJjYzc1MmU0NyZjdD1z/8yhYd06iIRfjkIOYvg/giphy.gif" width="2%">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![ReactJS](https://img.shields.io/badge/react-%2300b0c4.svg?style=for-the-badge&logo=react&logoColor=white)
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwind_css-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-![NodeJS](https://img.shields.io/badge/node_js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Mongoose](https://img.shields.io/badge/mongoose-810000?style=for-the-badge&logo=mongoose&logoColor=blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-0D2534?style=for-the-badge&logo=github&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/visual_studio_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+🎯 Mon objectif : progresser, comprendre comment les choses fonctionnent, et construire des projets utiles, petit à petit.  
 
 
-## What I am learning <img style="vertical-align: middle" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTIzMzMzZjRiYTQ5MWIyY2I2MjQxMmFkNGE2MmUxNDg1Y2E0ZTVjNyZjdD1z/l4FGIO2vCfJkakBtC/giphy.gif" width="30px">
+## 🌱 Ce que j’apprends en ce moment
+
+- 🌐 HTML, CSS, JavaScript
+- 🛠️ Git et GitHub
+- ⚙️ Un peu de Node.js, un peu de Python
 
 
-![ReactJS](https://img.shields.io/badge/react-%2300b0c4.svg?style=for-the-badge&logo=react&logoColor=white)
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C04119?style=for-the-badge&logo=Jest&logoColor=white)
+---
+
+## 🤝 Discuter, apprendre, partager
+
+Si tu es dans le même bateau ou si tu veux partager des conseils, je suis toujours preneur.  
+Les échanges, c’est ce qui fait progresser.
+
+Merci d’être passé par ici 👋  
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathias-hadji&theme=radical&layout=compact)
-
-<img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
-
-
-
-<!--
-**Mathias-Hadji/Mathias-Hadji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
