@@ -1,4 +1,4 @@
-# Salut 🌎
+# Salut les devs 🌎
 🏃 **Sportif dans l’âme**, passionné par la progression et le dépassement de soi,  
 💻 **Curieux touche-à-tout** dans le vaste monde de l’informatique.  
   
